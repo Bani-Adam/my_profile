@@ -3,9 +3,8 @@
         <h2 class="text-center text-xl sm:text-2xl font-bold uppercase dark:text-white">Hi! Saya Bani Adam </h2>
         <p class="sm:text-center text-justify my-4 sm:w-4/12 mx-auto dark:text-gray-300">
             Saya mahasiswa Sistem Informasi - Universitas Terbuka, 
-            seorang Front-End Web and Mobile Developer(Junior) dan 
-            saya pecinta kopi</p>
-        <p class="text-center text-blue-600">#Front-EndDeveloper #MobileDeveloper</p>
+            seorang Front - End Web dan Mobile Developer(Junior), Konten Kreator,
+            pecinta kopi</p>
     </div>
 </template>
 <script setup>
