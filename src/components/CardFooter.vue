@@ -12,7 +12,7 @@
             <a href="https://www.facebook.com/adam.reckhabanni" target="_blank"
                 class="m-1 p-1 text-gray-600 text-2xl hover:text-blue-600 dark:text-gray-400"><font-awesome-icon
                     icon="fa-brands fa-facebook" /></a>
-            <a href="https://www.instagram.com/adambani867" target="_blank"
+            <a href="https://www.instagram.com/baniadam_tech" target="_blank"
                 class="m-1 p-1 text-gray-600 text-2xl hover:text-blue-600 dark:text-gray-400"><font-awesome-icon
                     icon="fa-brands fa-instagram" /></a>
             <a href="https://github.com/Bani-Adam" target="_blank"
